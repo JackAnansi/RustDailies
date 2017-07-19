@@ -6,7 +6,7 @@
     Usage:
     timecalc 2h to pts
       > 1pts
-    timecalc 13pts to days
+    timecalc 13pts to d
       > 3.25d
 */
 

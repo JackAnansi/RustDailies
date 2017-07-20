@@ -14,6 +14,11 @@ fn cipher(text: &str) -> String {
     }).collect()
 }
 
+// Heh.
+fn decipher(text: &str) -> String {
+    cipher(text)
+}
+
 fn main() {
     println!("Enter a sentence to cipher: ");
     let mut plaintext = String::new();
@@ -21,6 +26,7 @@ fn main() {
         Ok(_) => {
             let ciphertext = cipher(&plaintext);
             println!("{}", ciphertext);
+            println!("{}", decipher(&ciphertext));
         },
         Err(e) => println!("Failed to read input: {}", e),
     }

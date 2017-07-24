@@ -1,4 +1,4 @@
-#Challenge 1: Basic I/O
+# Challenge 1: Basic I/O
 Create a program that will ask the user's name, age, and reddit username. Have it tell them the information back, in the format:
 
 Your name is (blank), you are (blank) years old, and your username is (blank)

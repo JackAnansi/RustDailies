@@ -1,4 +1,4 @@
-#Challenge 3: Caesar Cipher
+# Challenge 3: Caesar Cipher
 Welcome to cipher day!
 
 Write a program that can encrypt texts with an alphabetical caesar cipher. This cipher can ignore numbers, symbols, and whitespace.

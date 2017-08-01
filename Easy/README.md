@@ -8,3 +8,4 @@
 * 6 - ____skipped
 * 7 - Morse Code Decipherer
 * 8 - 99 Bottles of Beer
+* 9 - Soring a User's Digits

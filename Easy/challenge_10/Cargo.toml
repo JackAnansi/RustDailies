@@ -1,0 +1,7 @@
+[package]
+name = "challenge_10"
+version = "0.1.0"
+authors = ["Dan Ambrogio <dan.ambrogio@gmail.com>"]
+
+[dependencies]
+regex = "0.2"

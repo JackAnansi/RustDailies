@@ -9,3 +9,4 @@
 * 7 - Morse Code Decipherer
 * 8 - 99 Bottles of Beer
 * 9 - Soring a User's Digits
+* 10 - Validating Phone Numbers
